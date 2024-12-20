@@ -1,4 +1,4 @@
--- Active: 1734704222514@@127.0.0.1@3306@hms
+
 CREATE TABLE Doctors(
     doctors_id INT PRIMARY KEY AUTO_INCREMENT,
     doctors_name VARCHAR(255) NOT NULL,
